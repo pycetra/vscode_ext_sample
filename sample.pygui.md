@@ -1,0 +1,7 @@
+- #aaa@n
+  - node1015
+- #ccc@s0000
+- ddd@s0002
+- @i1->@s0002
+- #position
+- n,200,100
